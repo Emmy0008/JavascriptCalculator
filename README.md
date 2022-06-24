@@ -1,2 +1,4 @@
 # JavascriptCalculator
 THIS IS A JAVASCRIPT ASSIGNMENT FOR BASIC CALCULATOR FUNCTIONS
+# LINK TO THE HOSTED GIT WORK:
+https://emmy0008.github.io/JavascriptCalculator/
